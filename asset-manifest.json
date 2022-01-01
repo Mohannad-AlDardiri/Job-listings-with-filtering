@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Job-listings-with-filtering/static/css/main.6dc8af5b.chunk.css",
+    "main.css": "/Job-listings-with-filtering/static/css/main.1e56b429.chunk.css",
     "main.js": "/Job-listings-with-filtering/static/js/main.c48ba5f6.chunk.js",
     "main.js.map": "/Job-listings-with-filtering/static/js/main.c48ba5f6.chunk.js.map",
     "runtime-main.js": "/Job-listings-with-filtering/static/js/runtime-main.f8a58ad5.js",
@@ -10,7 +10,7 @@
     "static/js/3.1c80a2c0.chunk.js": "/Job-listings-with-filtering/static/js/3.1c80a2c0.chunk.js",
     "static/js/3.1c80a2c0.chunk.js.map": "/Job-listings-with-filtering/static/js/3.1c80a2c0.chunk.js.map",
     "index.html": "/Job-listings-with-filtering/index.html",
-    "static/css/main.6dc8af5b.chunk.css.map": "/Job-listings-with-filtering/static/css/main.6dc8af5b.chunk.css.map",
+    "static/css/main.1e56b429.chunk.css.map": "/Job-listings-with-filtering/static/css/main.1e56b429.chunk.css.map",
     "static/js/2.7072bb72.chunk.js.LICENSE.txt": "/Job-listings-with-filtering/static/js/2.7072bb72.chunk.js.LICENSE.txt",
     "static/media/account.903d6cd0.svg": "/Job-listings-with-filtering/static/media/account.903d6cd0.svg",
     "static/media/index.css": "/Job-listings-with-filtering/static/media/bg-header-mobile.9cb13612.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8a58ad5.js",
     "static/js/2.7072bb72.chunk.js",
-    "static/css/main.6dc8af5b.chunk.css",
+    "static/css/main.1e56b429.chunk.css",
     "static/js/main.c48ba5f6.chunk.js"
   ]
 }
