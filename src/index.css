@@ -57,12 +57,11 @@
   .jops-container {
     @apply p-5 sm:p-10 sm:pt-20 md:p-16 bg-filterTabletsColor py-10 pt-20;
     width: 100vw;
-    min-height: 100vh;
   }
   .jop {
     border-left: 6px;
     @apply bg-white p-5  rounded-md  mb-12 border-transparent border-solid  relative w-full pt-11 lg:flex justify-between items-center;
-    filter: drop-shadow(0 25px 25px rgb(0 0 0 / 0.15));
+    filter: drop-shadow(0 25px 25px rgb(238, 246, 246));
   }
   .jop hr {
     border-top: 0.5px solid gray;
