@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/Job-listings-with-filtering/static/css/main.153cc562.chunk.css",
-    "main.js": "/Job-listings-with-filtering/static/js/main.d7cb95ad.chunk.js",
-    "main.js.map": "/Job-listings-with-filtering/static/js/main.d7cb95ad.chunk.js.map",
-    "runtime-main.js": "/Job-listings-with-filtering/static/js/runtime-main.96651cf7.js",
-    "runtime-main.js.map": "/Job-listings-with-filtering/static/js/runtime-main.96651cf7.js.map",
-    "static/js/2.a6cf4adc.chunk.js": "/Job-listings-with-filtering/static/js/2.a6cf4adc.chunk.js",
-    "static/js/2.a6cf4adc.chunk.js.map": "/Job-listings-with-filtering/static/js/2.a6cf4adc.chunk.js.map",
-    "static/js/3.ac21c631.chunk.js": "/Job-listings-with-filtering/static/js/3.ac21c631.chunk.js",
-    "static/js/3.ac21c631.chunk.js.map": "/Job-listings-with-filtering/static/js/3.ac21c631.chunk.js.map",
+    "main.css": "/Job-listings-with-filtering/static/css/main.06520908.chunk.css",
+    "main.js": "/Job-listings-with-filtering/static/js/main.c48ba5f6.chunk.js",
+    "main.js.map": "/Job-listings-with-filtering/static/js/main.c48ba5f6.chunk.js.map",
+    "runtime-main.js": "/Job-listings-with-filtering/static/js/runtime-main.f8a58ad5.js",
+    "runtime-main.js.map": "/Job-listings-with-filtering/static/js/runtime-main.f8a58ad5.js.map",
+    "static/js/2.7072bb72.chunk.js": "/Job-listings-with-filtering/static/js/2.7072bb72.chunk.js",
+    "static/js/2.7072bb72.chunk.js.map": "/Job-listings-with-filtering/static/js/2.7072bb72.chunk.js.map",
+    "static/js/3.1c80a2c0.chunk.js": "/Job-listings-with-filtering/static/js/3.1c80a2c0.chunk.js",
+    "static/js/3.1c80a2c0.chunk.js.map": "/Job-listings-with-filtering/static/js/3.1c80a2c0.chunk.js.map",
     "index.html": "/Job-listings-with-filtering/index.html",
-    "static/css/main.153cc562.chunk.css.map": "/Job-listings-with-filtering/static/css/main.153cc562.chunk.css.map",
-    "static/js/2.a6cf4adc.chunk.js.LICENSE.txt": "/Job-listings-with-filtering/static/js/2.a6cf4adc.chunk.js.LICENSE.txt"
+    "static/css/main.06520908.chunk.css.map": "/Job-listings-with-filtering/static/css/main.06520908.chunk.css.map",
+    "static/js/2.7072bb72.chunk.js.LICENSE.txt": "/Job-listings-with-filtering/static/js/2.7072bb72.chunk.js.LICENSE.txt",
+    "static/media/account.903d6cd0.svg": "/Job-listings-with-filtering/static/media/account.903d6cd0.svg",
+    "static/media/index.css": "/Job-listings-with-filtering/static/media/bg-header-mobile.9cb13612.svg",
+    "static/media/eyecam-co.0abb14e8.svg": "/Job-listings-with-filtering/static/media/eyecam-co.0abb14e8.svg",
+    "static/media/faceit.54a148ce.svg": "/Job-listings-with-filtering/static/media/faceit.54a148ce.svg",
+    "static/media/icon-remove.70c075ce.svg": "/Job-listings-with-filtering/static/media/icon-remove.70c075ce.svg",
+    "static/media/insure.4d535e7e.svg": "/Job-listings-with-filtering/static/media/insure.4d535e7e.svg",
+    "static/media/loop-studios.7778c957.svg": "/Job-listings-with-filtering/static/media/loop-studios.7778c957.svg",
+    "static/media/manage.5a528a96.svg": "/Job-listings-with-filtering/static/media/manage.5a528a96.svg",
+    "static/media/myhome.aaaaa430.svg": "/Job-listings-with-filtering/static/media/myhome.aaaaa430.svg",
+    "static/media/photosnap.5a867c13.svg": "/Job-listings-with-filtering/static/media/photosnap.5a867c13.svg",
+    "static/media/shortly.3c01b577.svg": "/Job-listings-with-filtering/static/media/shortly.3c01b577.svg",
+    "static/media/the-air-filter-company.9b55f644.svg": "/Job-listings-with-filtering/static/media/the-air-filter-company.9b55f644.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96651cf7.js",
-    "static/js/2.a6cf4adc.chunk.js",
-    "static/css/main.153cc562.chunk.css",
-    "static/js/main.d7cb95ad.chunk.js"
+    "static/js/runtime-main.f8a58ad5.js",
+    "static/js/2.7072bb72.chunk.js",
+    "static/css/main.06520908.chunk.css",
+    "static/js/main.c48ba5f6.chunk.js"
   ]
 }
