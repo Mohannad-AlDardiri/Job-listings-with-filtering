@@ -63,7 +63,7 @@ const JobsCards = () => {
             {jop.new && <li className="new">NEW!</li>}
             {jop.featured && <li className="featured">FEATURED</li>}
           </ul>
-          <h2 className="position">{jop.position}</h2>
+          <h1 className="position">{jop.position}</h1>
           <ul className="Characteristics">
             <li>{jop.postedAt}</li>
             <li>{jop.contract}</li>
