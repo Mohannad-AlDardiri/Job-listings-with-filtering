@@ -9,7 +9,7 @@ const Filter = () => {
   const GlobalState = useSelector((state) => state);
   const Dispatch = useDispatch();
 
-  let id = 0;
+  let id = 20;
   return (
     <div className="filter-container">
       {/* show filter div whin filter icon is clicked  */}
@@ -17,6 +17,7 @@ const Filter = () => {
         <div
           tabIndex="0"
           className="filter"
+          data-testid="filterEL"
           onFocus={() => Dispatch(toggleFocus())}
         >
           <div className="filter-categories" id="filter-categories">
@@ -42,7 +43,7 @@ const Filter = () => {
       )}
       <img
         src={filterIcon}
-        alt="filter icon"
+        alt="filter-icon"
         className="filter-icon"
         onClick={() => {
           Dispatch(toggleIsOpen());

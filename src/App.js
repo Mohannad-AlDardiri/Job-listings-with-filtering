@@ -1,13 +1,16 @@
 import Jobs from "./components/Jobs/Jobs";
-// import Filter from "./components/Filter/Filter";
+import store from "./store/index.js";
+import { Provider } from "react-redux";
 function App() {
   return (
-    <div className="font-spartan h-screen">
-      <header></header>
-      <main>
-        <Jobs />
-      </main>
-    </div>
+    <Provider store={store}>
+      <div className="font-spartan h-screen">
+        <header></header>
+        <main>
+          <Jobs />
+        </main>
+      </div>
+    </Provider>
   );
 }
 

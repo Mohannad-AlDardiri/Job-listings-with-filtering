@@ -4,7 +4,7 @@ import Filter from "../Filter/Filter";
 export default function Jops() {
   return (
     <>
-      <div className="jops-container ">
+      <div className="jops-container">
         <Filter />
         <JobsCards />
       </div>

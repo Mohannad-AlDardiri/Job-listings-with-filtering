@@ -16,11 +16,11 @@ const CategoriesList = () => {
     Dispatch(setFilterCategory(categ));
   };
   // to generate a unique key
-  let id = 0;
+  let id = 10;
   return (
-    <ul className="categories-list">
+    <ul className="categories-list" data-testid="categories_list">
       {FilterCategoriesarr.map((categ) => (
-        <li key={id++} onClick={() => AddCategoryHundler(categ)}>
+        <li key={id++} onClick={() => AddCategoryHundler(categ)} data-testid={`categories_list_item_${id++}`}>
           {categ}
         </li>
       ))}
